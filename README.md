@@ -1,4 +1,4 @@
-# Lab 14
+# Week 10 Wed Lab
 
 ## Directions
 
@@ -35,3 +35,4 @@ A working `main` function is already provided. Use this to test your hash table 
 - The size of the hash table is not the same thing as `M`
     + We define the size as the number of elements stored in the hash table
     + You will need to traverse `ht` and count how many records are in each linked list
+
